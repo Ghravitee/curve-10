@@ -1,0 +1,49 @@
+.huddle-logo {
+  height: 1rem;
+  max-width: 6rem;
+
+  @media (min-width: 62.5em) {
+    height: 1.9rem;
+    max-width: 17rem;
+    width: 100%;
+  }
+}
+
+.stats-1__image,
+.stats-2__image {
+  width: 1.5rem;
+
+  @media (min-width: 62.5em) {
+    width: 2.5rem;
+  }
+}
+
+.intro-picture {
+  align-self: stretch;
+}
+
+.hero-1__image {
+  padding: 1rem;
+}
+
+.hero-1__image,
+.hero-2__image,
+.hero-3__image {
+
+  @media (min-width: 62.5em) {
+    width: 80%;
+  }
+}
+
+
+
+
+.footer-logo {
+  width: 13rem;
+  margin-bottom: 1rem;
+}
+
+.icon-location {
+  align-self: start;
+  margin-top: 0.3125rem;
+}
